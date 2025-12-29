@@ -10,22 +10,22 @@ DirectX 11 기반의 게임 엔진을 처음부터 직접 구현하며, 언리�
 
 | Week | Repository | Description |
 |:----:|------------|-------------|
-| 00 | [TechLab_Week00](https://github.com/JeongBeomLee/TechLab_Week00) | 사전 준비 및 환경 설정 |
-| 01 | [TechLab_Week01](https://github.com/JeongBeomLee/TechLab_Week01) | 기초 렌더링 파이프라인 |
+| 00 | [TechLab_Week00](https://github.com/JeongBeomLee/TechLab_Week00) | 사전 학습 |
+| 01 | [TechLab_Week01](https://github.com/JeongBeomLee/TechLab_Week01) | 1차 게임잼 |
 | 02 | [TechLab_Week02](https://github.com/JeongBeomLee/TechLab_Week02) | Actor-Component 시스템 |
 | 03 | [TechLab_Week03](https://github.com/JeongBeomLee/TechLab_Week03) | 씬 관리 및 직렬화 |
-| 04 | [TechLab_Week04](https://github.com/JeongBeomLee/TechLab_Week04) | 리소스 매니저 및 서브시스템 |
+| 04 | [TechLab_Week04](https://github.com/JeongBeomLee/TechLab_Week04) | StaticMesh 및 다중 뷰포 |
 | 05 | [TechLab_Week05](https://github.com/JeongBeomLee/TechLab_Week05) | 컬링 및 최적화 |
-| 05+ | [TechLab_Week05Plus](https://github.com/JeongBeomLee/TechLab_Week05Plus) | 기즈모 및 에디터 기능 |
+| 05+ | [TechLab_Week05Plus](https://github.com/JeongBeomLee/TechLab_Week05Plus) | PIE |
 | 06 | [TechLab_Week06](https://github.com/JeongBeomLee/TechLab_Week06) | 이펙트 (Decal, Fog, Fireball) |
-| 07 | [TechLab_Week07](https://github.com/JeongBeomLee/TechLab_Week07) | 라이팅 시스템 (Tile-Based Light Culling) |
-| 08 | [TechLab_Week08](https://github.com/JeongBeomLee/TechLab_Week08) | 애니메이션 시스템 |
-| 09 | [TechLab_Week09](https://github.com/JeongBeomLee/TechLab_Week09) | 스켈레탈 메시 |
-| 10 | [TechLab_Week10](https://github.com/JeongBeomLee/TechLab_Week10) | GPU 스키닝 |
-| 11 | [TechLab_Week11](https://github.com/JeongBeomLee/TechLab_Week11) | FBX 로더 및 애니메이션 뷰어 |
+| 07 | [TechLab_Week07](https://github.com/JeongBeomLee/TechLab_Week07) | 라이팅 시스템 |
+| 08 | [TechLab_Week08](https://github.com/JeongBeomLee/TechLab_Week08) | 그림자 시스템 |
+| 09 | [TechLab_Week09](https://github.com/JeongBeomLee/TechLab_Week09) | 2차 게임잼 |
+| 10 | [TechLab_Week10](https://github.com/JeongBeomLee/TechLab_Week10) | FBX, CPU 스키닝 |
+| 11 | [TechLab_Week11](https://github.com/JeongBeomLee/TechLab_Week11) | GPU 스키닝, 애니메이션, MiniDump, 블렌딩 |
 | 12 | [TechLab_Week12](https://github.com/JeongBeomLee/TechLab_Week12) | 파티클 시스템 |
 | 13 | [TechLab_Week13](https://github.com/JeongBeomLee/TechLab_Week13) | 피직스 (PhysX 연동) |
-| 14 | [TechLab_Week14](https://github.com/JeongBeomLee/TechLab_Week14) | 최종 프로젝트 (Ragdoll, Cloth) |
+| 14 | [TechLab_Week14](https://github.com/JeongBeomLee/TechLab_Week14) | 최종 게임잼 |
 
 ---
 
