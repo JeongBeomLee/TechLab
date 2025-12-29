@@ -16,7 +16,7 @@ DirectX 11 기반의 게임 엔진을 처음부터 직접 구현하며, 언리�
 | 03 | [TechLab_Week03](https://github.com/JeongBeomLee/TechLab_Week03) | 씬 관리 및 직렬화 |
 | 04 | [TechLab_Week04](https://github.com/JeongBeomLee/TechLab_Week04) | StaticMesh 및 다중 뷰포 |
 | 05 | [TechLab_Week05](https://github.com/JeongBeomLee/TechLab_Week05) | 컬링 및 최적화 |
-| 05+ | [TechLab_Week05Plus](https://github.com/JeongBeomLee/TechLab_Week05Plus) | PIE |
+| 05+ | [TechLab_Week05Plus](https://github.com/JeongBeomLee/TechLab_Week05Plus) | Play In Editor |
 | 06 | [TechLab_Week06](https://github.com/JeongBeomLee/TechLab_Week06) | 이펙트 (Decal, Fog, Fireball) |
 | 07 | [TechLab_Week07](https://github.com/JeongBeomLee/TechLab_Week07) | 라이팅 시스템 |
 | 08 | [TechLab_Week08](https://github.com/JeongBeomLee/TechLab_Week08) | 그림자 시스템 |
