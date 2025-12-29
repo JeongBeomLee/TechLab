@@ -1,6 +1,6 @@
 # KRAFTON Jungle Game TechLab 2기
 
-<img width="454" height="251" alt="스크린샷 2025-10-29 015029" src="https://github.com/user-attachments/assets/4ed04845-77be-4c75-ae1c-4296bb3cc7d7" />
+
 크래프톤 정글 게임 테크랩 2기 프로젝트 모음입니다.
 
 
